@@ -7,7 +7,7 @@ const char* MinorColor_str[] = { "Blue", "Orange", "Green", "Brown", "Slate" };
 int numberOfMajorColors = sizeof(MajorColor_str) / sizeof(MajorColor_str[0]);
 int numberOfMinorColors = sizeof(MinorColor_str) / sizeof(MinorColor_str[0]);
 
-void PrintColorCodeManual(void)
+void ColorCodeReferenceManual(void)
 {
 	int MajorColorIndex = 0, MinorColorIndex = 0, PairNumber = 0;
 	printf("\n---------------------------------------------\n");
