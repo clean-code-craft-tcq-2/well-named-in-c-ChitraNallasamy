@@ -22,5 +22,4 @@ void PrintColorCodeManual(void)
 			printf("%d\t\t%s\t\t%s\n", ++PairNumber, MajorColor_str[MajorColorIndex], MinorColor_str[MinorColorIndex]);
 		}
 	}
-	printf("---------------------------------------------\n");
 }
