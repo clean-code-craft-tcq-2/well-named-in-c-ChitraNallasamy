@@ -2,7 +2,7 @@
 #include "assert.h"
 #include "ColorCodeRefManual.h"
 #include "ColorMapping.h"
-#include "ColorPairInterpreter.h"
+#include "ColorCodeAnalyser.h"
 
 
 void testNumberToPair(int pairNumber,
